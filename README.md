@@ -5,7 +5,7 @@ Automatic image captioning, in other words, generating natural language descript
 ### Deep Learning Model
 - #### Image Feature Extractor:
 
-Here we have used a pretrained VGG16 model to extract features from the images of flicker8k dataset. The pretarined weights can be dowmloaded from [here](https://github.com/fchollet/deep-learning-models/releases/download/v0.1/vgg16_weights_tf_dim_ordering_tf_kernels.h5).
+Here we have used a pretrained VGG16 model to extract features from the images of flicker8k dataset. The pretarined weights can be downloaded from [here](https://github.com/fchollet/deep-learning-models/releases/download/v0.1/vgg16_weights_tf_dim_ordering_tf_kernels.h5).
 
 - #### Sequence Processor:
 
